@@ -1,8 +1,9 @@
 # eth-tools
 
 1. Clone
-2. `yarn repl`
-3. Type / copy-paste commands
+2. Fill in values in `.env` file.
+3. `yarn repl`
+4. Type / copy-paste commands
 
 ## Cancel
 
